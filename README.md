@@ -68,11 +68,6 @@ print(full_report)
 radar_plot.write_html("model_comparison_radar.html")
 ```
 
-This will generate:
-- **`topsis_scores.png`** → Bar plot of model rankings
-- **`model_comparison_radar.html`** → Interactive radar chart
-- **`evaluation_report.csv`** → Detailed ranking of models
-
 ## **Results & Insights**
 ![image](https://github.com/user-attachments/assets/789b605b-6337-4c9f-93c9-aa9a01d67236)
 ![image](https://github.com/user-attachments/assets/7a9c8b8c-1b7e-42b1-8e98-0f816c524baf)
